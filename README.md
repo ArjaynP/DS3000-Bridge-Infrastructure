@@ -32,6 +32,8 @@ Some of the dataset files in this project are very large and **cannot be committ
   ```sh
   git clone https://github.com/ArjaynP/DS3000-Bridge-Infrastructure.git
   ```
+- Use the dataset from the One Drive and apply it to the Repo: https://uwoca-my.sharepoint.com/personal/zniu33_uwo_ca/_layouts/15/onedrive.aspx?e=5%3Afbe95b243d794e9098dc8390a542ccef&sharingv2=true&fromShare=true&at=9&CID=3a1bc53e%2D91b6%2D452f%2Da7ae%2D981f6e46a688&id=%2Fpersonal%2Fzniu33%5Fuwo%5Fca%2FDocuments%2FDS3000%20Group%20Project%20Dataset&FolderCTID=0x012000B87D43DFFF98004C9B40762AA21FFCC4&view=0
+- Disclaimer* Do Not Commit
 - Follow instructions in the notebook(s) for analysis and modeling.
 
 ## License
